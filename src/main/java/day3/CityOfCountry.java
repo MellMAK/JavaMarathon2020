@@ -1,8 +1,11 @@
+/*Implement a program that prints the name of the country to the console, taking on
+city name input.
+ */
 package day3;
 
 import java.util.Scanner;
 
-public class Task1 {
+public class CityOfCountry {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String city = sc.nextLine();
