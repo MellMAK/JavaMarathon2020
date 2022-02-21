@@ -1,7 +1,7 @@
 //package Tests.day6;
 //
 //import Tests.AbstractTest;
-//import day6.Motorbike;
+//import day6.Task1.Motorbike;
 //import org.junit.jupiter.api.Test;
 //
 //import static org.junit.jupiter.api.Assertions.assertEquals;
