@@ -1,6 +1,6 @@
-package day7;
+package day7.Task2;
 
-public class Task1 {
+public class Task2 {
     public static void main(String[] args) {
 
     }
