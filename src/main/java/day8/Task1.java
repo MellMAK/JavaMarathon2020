@@ -18,13 +18,11 @@ public class Task1 {
 //        for (int i = 0; i <= 20000; i++) {
 //            numbers += i + " ";
 //        }
-//
-//        System.out.print(numbers);
-//
 //        long after = System.currentTimeMillis();
 //
+//        System.out.print(numbers);
 //        System.out.println();
-//        System.out.println(after-before);
+//        System.out.printf("Process time with String: %d ms", (after-before));
 
 // Version2
         StringBuilder stringBuilder = new StringBuilder();
@@ -34,11 +32,12 @@ public class Task1 {
         for (int i = 0; i <=20000 ; i++) {
             stringBuilder.append(i).append(" ");
         }
-        System.out.print(stringBuilder);
 
         long after = System.currentTimeMillis();
+
+        System.out.print(stringBuilder);
         System.out.println();
-        System.out.println(after-before);
+        System.out.printf("Process time with StringBuilder: %d ms", (after-before));
 
     }
 }
