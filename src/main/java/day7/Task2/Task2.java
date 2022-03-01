@@ -35,7 +35,7 @@ public class Task2 {
         Player.info();
 
         Player player7 = new Player(99);
-        System.out.println(Player.getCountPlayer());
+        System.out.println(Player.getCountPlayers());
 
 
         for (int i = 0; i <100 ; i++) {
@@ -45,7 +45,7 @@ public class Task2 {
         Player player8 = new Player(59);
 
         Player.info();
-        System.out.println(Player.getCountPlayer());
+        System.out.println(Player.getCountPlayers());
 
     }
 }

@@ -17,7 +17,7 @@ public class Player {
         return stamina;
     }
 
-    public static int getCountPlayer() {
+    public static int getCountPlayers() {
         return countPlayer;
     }
 
