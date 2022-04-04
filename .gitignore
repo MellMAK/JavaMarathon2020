@@ -2,3 +2,4 @@
 *.iml
 /target
 /src/test
+/src/main/java/day10/*
