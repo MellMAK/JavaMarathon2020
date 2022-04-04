@@ -1,8 +1,8 @@
 //package Tests.day11;
 //
 //import Tests.AbstractTest;
-//import day11.task1.Courier;
-//import day11.task1.Warehouse;
+//import day11.task1.task1.Courier;
+//import day11.task1.task1.Warehouse;
 //import org.junit.jupiter.api.BeforeEach;
 //import org.junit.jupiter.api.Test;
 //import org.laughingpanda.beaninject.Inject;

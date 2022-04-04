@@ -1,4 +1,4 @@
-package day11.task1;
+package day11;
 /*
 In the warehouse, the assembly and packaging of the online order takes place.
 Create classes:

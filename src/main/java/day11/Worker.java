@@ -1,4 +1,4 @@
-package day11.task1;
+package day11;
 
 public interface Worker {
     void doWork();
