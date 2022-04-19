@@ -37,14 +37,13 @@ public class User {
         return this.isSubscribed(user)&& user.isSubscribed(this);
     }
 
-    public void sendMassage(User user, String text){
+    public void sendMessage(User user, String text){
         // TODO
+        MessageDatabase.sendMessage(this,user,text);
     }
 
     @Override
     public String toString() {
-        return "User{" +
-                "username='" + username + '\'' +
-                '}';
+        return username;
     }
 }

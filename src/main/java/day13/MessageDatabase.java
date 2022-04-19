@@ -6,7 +6,7 @@ import java.util.List;
 public class MessageDatabase {
     private static List<Message> messages = new ArrayList<>();
 
-    public static void sendMassage(User sender, User receiver, String text) {
+    public static void sendMessage(User sender, User receiver, String text) {
         messages.add(new Message(sender, receiver, text));
     }
 
