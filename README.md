@@ -1,8 +1,6 @@
-# Практика для начинающих
-Пустой проект марафона "Практика для начинающих" на языке Java. Предназначен для участников марафона.
+# Practice for beginners
+Empty project of the "Practice for Beginners" marathon in Java. Designed for marathon participants.
+The project contains a folder structure according to each day of the marathon, the necessary source files and automated tests. 
+Link to page with information about the marathon: https://java-marathon.tilda.ws/
 
-Проект содержит структуру папок в соответствии с каждым днем марафона, необходимые исходные файлы и автоматические тесты.
- 
-Ссылка на страницу с информацией о марафоне: https://java-marathon.tilda.ws/
-
-Авторы: Алишев Наиль https://www.youtube.com/c/alishevN, Бурлаков Сергей https://t.me/sergetonte
+Authors: Alishev Nail https://www.youtube.com/c/alishevN, Burlakov Sergey https://t.me/sergetonte
